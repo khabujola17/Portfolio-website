@@ -1,0 +1,29 @@
+nav{
+    font-size: larger;
+    color:black;
+    display: flex;
+    gap: 10em;
+    
+}
+
+h1{
+    color: blue;
+}
+
+.myheaders{
+    background-color: green;
+    border: 2px;
+    margin: 3px;
+}
+
+img{
+    border: 2px;
+    border-color: red;
+    border-radius: 20px;
+    width: 50%;
+    height: 50%;
+}
+
+img:hover{
+    cursor: pointer;
+}
